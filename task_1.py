@@ -25,3 +25,12 @@ def function_python():  # объявляем функцию
 
 
 print(function_python())
+
+# Ключь: <class 'int'> / значение: 5
+# Ключь: <class 'float'> / значение: 2.0
+# Ключь: <class 'complex'> / значение: (1+2j)
+# Ключь: <class 'list'> / значение: [1, 2.2, 'python']
+# Ключь: <class 'tuple'> / значение: (5, 'program', (1+3j))
+# Ключь: <class 'str'> / значение: Простая строка
+# Ключь: <class 'set'> / значение: {1, 2, 3, 4, 5}
+# None
