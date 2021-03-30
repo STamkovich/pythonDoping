@@ -27,7 +27,7 @@ def function(x):  # объявляем функцию
         print(my_dict)
         return my_dict
     else:  # используем условный оператор else
-        print("Введены некоректные данные")
+        print('Введены некоректные данные')
 
 
 function(6)
