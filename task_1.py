@@ -33,4 +33,4 @@ print(function_python())
 # Ключь: <class 'tuple'> / значение: (5, 'program', (1+3j))
 # Ключь: <class 'str'> / значение: Простая строка
 # Ключь: <class 'set'> / значение: {1, 2, 3, 4, 5}
-# None
+# None.
