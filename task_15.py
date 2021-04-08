@@ -24,12 +24,6 @@ print(total)
 print(total1)
 print(total2)
 
-# apple
-# banana
-# grape
-# some other word
-# apple
-# banana
-# grape
-# some other word
-
+# -48
+# -48
+# -48
